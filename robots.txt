@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://parapax.github.io/sitemap.xml 
