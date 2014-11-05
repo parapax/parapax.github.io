@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[paramixture]]></title>
-  <link href="http://parapax.github.io/atom.xml" rel="self"/>
+  <link href="http://parapax.github.io/feed" rel="self"/>
   <link href="http://parapax.github.io/"/>
   <updated>2014-11-05T19:37:12+08:00</updated>
   <id>http://parapax.github.io/</id>
