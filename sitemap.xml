@@ -6,36 +6,26 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://parapax.github.io/blog/2012/07/22/the-problem-with-pingdom/</loc>
-    <lastmod>2012-07-22T19:13:00+08:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://parapax.github.io/blog/2012/07/22/intro/</loc>
-    <lastmod>2012-07-22T08:23:00+08:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>http://parapax.github.io/blog/archives/</loc>
-    <lastmod>2014-11-05T19:58:00+08:00</lastmod>
+    <lastmod>2014-11-05T20:03:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://parapax.github.io/</loc>
-    <lastmod>2014-11-05T19:58:00+08:00</lastmod>
+    <lastmod>2014-11-05T20:03:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://parapax.github.io/about/</loc>
-    <lastmod>2014-11-05T19:58:00+08:00</lastmod>
+    <lastmod>2014-11-05T20:03:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://parapax.github.io/search.html</loc>
-    <lastmod>2014-11-05T19:58:00+08:00</lastmod>
+    <lastmod>2014-11-05T20:03:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
