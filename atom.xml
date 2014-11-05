@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
+
   <title><![CDATA[paramixture]]></title>
   <link href="http://parapax.github.io/atom.xml" rel="self"/>
   <link href="http://parapax.github.io/"/>
-  <updated>2014-11-05T18:49:06+08:00</updated>
+  <updated>2014-11-05T19:01:28+08:00</updated>
   <id>http://parapax.github.io/</id>
   <author>
     <name><![CDATA[Yujing Wang]]></name>
